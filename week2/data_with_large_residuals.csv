@@ -1,0 +1,8 @@
+rooms,area,pop,pop_dens,frg_pct,emp,tax_income,room_per_m2,luxurious,temporary,furnished,area_cat_ecoded,zurich_city,recidual (error),price,predicted_price,description_raw,bfs_name,postalcode,town
+2.0,54,29944,10008.0,32.4584678868,491193.0,85446,27.0,0,0,0,2.0,1,810.31,4853,4042.69,«2 Bedroom Apartment Senior Balcony»,Zürich,8004, Zürich
+2.0,49,50950,5792.0,32.4584678868,491193.0,85446,24.5,0,0,0,0.0,1,858.3249999999998,4335,3476.675,«2 Bedroom Apartment Junior Terrace»,Zürich,8003, Zürich
+2.5,65,41411,4512.0,32.4584678868,491193.0,85446,26.0,0,0,0,2.0,1,1248.8466666666673,5900,4651.153333333333,«Serviced 1-bedroom with great view and luxurious interior design»,Zürich,8037, Zürich
+2.5,70,78801,5736.0,32.4584678868,491193.0,85446,28.0,0,0,0,2.0,1,1382.8900000000003,5900,4517.11,«Spacious apartment with spectacular view and luxururious design»,Zürich,8057, Zürich
+2.5,70,39647,2574.0,32.4584678868,491193.0,85446,28.0,0,0,0,2.0,1,1356.5533333333333,5900,4543.446666666667,"«""Wohnoase im Englisch Viertel - Serviced Apartment in Jugendstil-Villa»",Zürich,8032, Zürich
+5.5,200,113173,1662.5973262818,24.535003932,73339.0,70966,36.36,0,0,0,1.0,0,943.4666666666662,5600,4656.533333333334,"«RUHIG UND SONNIG, MIT WUNDERSCHÖNER AUSSICHT»",Winterthur,8404, Winterthur
+4.5,101,35007,1228.7469287469,23.0096837775,17237.0,79839,22.44,0,0,0,1.0,0,894.3914761904762,3210,2315.608523809524,«Helle und moderne Maisonette-Wohnung mit Galerie»,Uster,8610, Uster

@@ -1,0 +1,2 @@
+Number of Rooms,Area (m²),Population,Population Density,Foreign Percentage,Employment Rate,Taxable Income,Rooms per m²,Area Category (Encoded),"Zurich City (1 = Yes, 0 = No)",Distance to Nearest School (m),output,timestamp
+3,80,50000,1200,30,95,75000,0.04,2,1,500,,2025-03-16 14:27:17.474751
