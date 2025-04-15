@@ -1,4 +1,4 @@
-transformers
 gradio
+transformers
 torch
 Pillow
