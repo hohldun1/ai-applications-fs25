@@ -1,1 +1,4 @@
-gradio\ntransformers\ntorch\nPillow
+gradio
+transformers
+torch
+Pillow
